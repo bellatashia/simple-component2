@@ -1,5 +1,5 @@
 {
-  "name": "@miidx/rn-simple-component2",
+  "name": "@bellatashia/rn-simple-component2",
   "version": "0.9.0",
   "description": "A simple component",
   "main": "index.js",
@@ -10,15 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/miidx/rn-simple-component2.git"
   },
-  "author": "firstyuyu",
+  "author": "Bella Tashia",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/miidx/rn-simple-component2/issues"
   },
   "homepage": "https://github.com/miidx/rn-simple-component2#readme",
-  "dependencies": {
-    
-  },
+  "dependencies": {},
   "peerDependencies": {
     "react": "*",
     "react-native": "*",
