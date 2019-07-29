@@ -8,14 +8,14 @@ const styles = {
   },
 };
 
-const CustomComponent = ({ title }) => (
+const SimpleComponent2 = ({ title }) => (
   <View>
     <Text>{title}</Text>
   </View>
 );
 
-export default CustomComponent;
+export default SimpleComponent2;
 
-CustomComponent.propTypes = {
+SimpleComponent2.propTypes = {
   title: PropTypes.string.isRequired,
 };

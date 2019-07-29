@@ -1,3 +1,3 @@
-import CustomComponent from './src/custom-component';
+import SimpleComponent2 from './src/simple-component2';
 
-export default CustomComponent;
+export default SimpleComponent2;
